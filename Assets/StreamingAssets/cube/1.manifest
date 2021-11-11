@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 172947978
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbafa76fc07387a3a3cc9ea411e3f866
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 277326830ee0533afe281ad4cfcec3e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/1.5/Prefabs/prefab_Cube_1.prefab
+Dependencies:
+- C:/Users/HedersonLeeh/Documents/GitHub/Test Unity/Unity Test/AssetBundles/StandaloneWindows/material/cubes
